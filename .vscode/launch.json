@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Lower_Bound",
+            "request": "launch",
+            "mainClass": "Searching.Binary_Search.Lower_Bound",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Lower_Bound",
+            "request": "launch",
+            "mainClass": "Lower_Bound",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_Matrix_270",
+            "request": "launch",
+            "mainClass": "Arrays.Array_2D.Rotate_Matrix_270",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_Matrix_90",
+            "request": "launch",
+            "mainClass": "Arrays.Array_2D.Rotate_Matrix_90",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Transpose_Matrix",
+            "request": "launch",
+            "mainClass": "Arrays.Array_2D.Transpose_Matrix",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Transpose_Matrix",
+            "request": "launch",
+            "mainClass": "Transpose_Matrix",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Matrix_Rotate_90",
+            "request": "launch",
+            "mainClass": "Matrix_Rotate_90",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Arrays.Hello",
+            "projectName": "DSA_79061d18"
+        }
+    ]
+}
