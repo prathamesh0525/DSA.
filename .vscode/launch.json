@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Single_Element",
+            "request": "launch",
+            "mainClass": "Searching.Binary_Search.Single_Element",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Median_2Array",
+            "request": "launch",
+            "mainClass": "Sorting.Merge_sort.Median_2Array",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Merge_example1",
+            "request": "launch",
+            "mainClass": "Sorting.Merge_sort.Merge_example1",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Inversion_Count",
+            "request": "launch",
+            "mainClass": "Sorting.Merge_sort.Inversion_Count",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Find_Rotate_Array",
+            "request": "launch",
+            "mainClass": "Searching.Binary_Search.Find_Rotate_Array",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Searching_Rotated_Sorted_Array_II",
+            "request": "launch",
+            "mainClass": "Searching.Binary_Search.Searching_Rotated_Sorted_Array_II",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "Lower_Bound",
             "request": "launch",
             "mainClass": "Searching.Binary_Search.Lower_Bound",
