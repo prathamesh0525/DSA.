@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Searching.Binary_Search.Demo",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "Single_Element",
             "request": "launch",
             "mainClass": "Searching.Binary_Search.Single_Element",
