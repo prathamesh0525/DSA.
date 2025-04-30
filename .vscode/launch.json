@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Create_Tree",
+            "request": "launch",
+            "mainClass": "Tree.Create_Tree",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "Count_Peak_Element",
             "request": "launch",
             "mainClass": "Searching.Binary_Search.Count_Peak_Element",
