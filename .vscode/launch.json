@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Full_Binary",
+            "request": "launch",
+            "mainClass": "Tree.Types_Of_Tree.Binary.Types_Binary.noOF_Children.Full_Binary",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Full_Binary",
+            "request": "launch",
+            "mainClass": "Tree.Types_Of_Tree.Binary.Types_Binary.Full_Binary",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Full_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Tree.Types_Of_Tree.Binary_Tree.NO_OF_Children.Tree.Types_Of.Full_Binary_Tree",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Create_Node",
+            "request": "launch",
+            "mainClass": "Tree.Create_Node",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "Create_Tree",
             "request": "launch",
             "mainClass": "Tree.Create_Tree",
