@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Postorder_Traversal",
+            "request": "launch",
+            "mainClass": "Tree.TREE_Operation.Traversal.DFS.Postorder_Traversal",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "PostOrder_Traversal",
+            "request": "launch",
+            "mainClass": "Tree.TREE_Operation.Traversal.DFS.PostOrder_Traversal",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Inorder_Traversal",
+            "request": "launch",
+            "mainClass": "Tree.TREE_Operation.Traversal.DFS.Inorder_Traversal",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Preorder_Traversal",
+            "request": "launch",
+            "mainClass": "Tree.TREE_Operation.Traversal.DFS.Preorder_Traversal",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Traversal_BFS_QUEUE",
+            "request": "launch",
+            "mainClass": "Tree.TREE_Operation.Traversal.BFS.Traversal_BFS_QUEUE",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Travalsal_BFS",
+            "request": "launch",
+            "mainClass": "Tree.TREE_Operation.Traversal.BFS.Travalsal_BFS",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Proper_Degenerate",
+            "request": "launch",
+            "mainClass": "Tree.Types_Of_Tree.Binary.Types_Binary.noOF_Children.Proper_Degenerate",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Degenerate_right",
+            "request": "launch",
+            "mainClass": "Tree.Types_Of_Tree.Binary.Types_Binary.noOF_Children.Degenerate_right",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Degenerate_left",
+            "request": "launch",
+            "mainClass": "Tree.Types_Of_Tree.Binary.Types_Binary.noOF_Children.Degenerate_left",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "Full_Binary",
             "request": "launch",
             "mainClass": "Tree.Types_Of_Tree.Binary.Types_Binary.noOF_Children.Full_Binary",
